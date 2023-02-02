@@ -1,0 +1,16 @@
+08:32:08,565  INFO GUI:42 - Entering the main method
+08:32:08,873  INFO GUI:63 - Swing activated
+08:32:22,067  INFO GUI:96 - Enter button triggered
+08:32:22,068  INFO GUI:100 - 
+08:32:22,068  INFO WebScraping:22 - Entering the getSongLyrics Method....
+08:32:22,068  INFO WebScraping:26 - Entering Website....
+08:32:23,306  INFO WebScraping:43 - Exit the method name getSongLyrics
+08:36:55,644  INFO GUI:42 - Entering the main method
+08:36:55,833  INFO GUI:63 - Swing activated
+08:42:08,622  INFO GUI:42 - Entering the main method
+08:42:08,818  INFO GUI:63 - Swing activated
+08:42:26,180  INFO GUI:96 - Enter button triggered
+08:42:26,181  INFO GUI:100 - 
+08:42:26,181  INFO WebScraping:22 - Entering the getSongLyrics Method....
+08:42:26,181  INFO WebScraping:26 - Entering Website....
+08:42:26,981  INFO WebScraping:43 - Exit the method name getSongLyrics
